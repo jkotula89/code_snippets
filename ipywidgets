@@ -1,0 +1,16 @@
+import sys
+#!{sys.executable} -m pip install ipywidgets
+
+import ipywidgets as widgets
+from ipywidgets import interact, interact_manual
+
+
+import pandas as pd
+import numpy as np
+
+df = pd.DataFrame({'a': np.linspace(0, 101, 100), 'b': np.random.randint(0, 100, 100)})
+
+ # Interact with specification of arguments
+@interact
+def show_data(column=['a', 'b'], x=(0, 100, 10)):
+    return df.loc[df[column] > x]
