@@ -1,0 +1,46 @@
+https://github.com/FavioVazquez/ds-cheatsheets
+https://www.datasciencecentral.com/profiles/blogs/reading-list-for-data-scientists
+
+############################## Preprocessing ############################################################
+https://www.analyticsvidhya.com/blog/2018/08/guide-automated-feature-engineering-featuretools-python/
+https://machinelearningmastery.com/basic-feature-engineering-time-series-data-python/
+http://pbpython.com/categorical-encoding.html
+https://towardsdatascience.com/how-i-learned-to-love-parallelized-applies-with-python-pandas-dask-and-numba-f06b0b367138 
+https://github.com/scikit-learn-contrib/imbalanced-learn
+https://imgaug.readthedocs.io/en/latest 
+
+############################## Stacking
+https://github.com/Menelau/
+
+############################## Decomposition
+https://towardsdatascience.com/gaussian-mixture-modelling-gmm-833c88587c7f
+
+############################## Time Series
+https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+https://burakhimmetoglu.com/2017/08/22/time-series-classification-with-tensorflow/
+
+############################## Classifier
+https://towardsdatascience.com/logistic-regression-as-a-nonlinear-classifier-bdc6746db734
+https://github.com/yzhao062/pyod (https://pyod.readthedocs.io/en/latest/index.html)
+
+############################## Statistics
+https://github.com/blei-lab/edward
+https://github.com/lazyprogrammer/machine_learning_examples
+
+############################## NLP
+https://www.kdnuggets.com/2018/09/free-resources-natural-language-processing.html
+https://towardsdatascience.com/coding-foreign-language-lit-analyzing-dantes-inferno-with-python-nltk-419124c9eb44
+
+############################## DNN
+http://cs231n.github.io/convolutional-networks/ 
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html 
+https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202
+
+############################## Conclusions
+https://www.kdnuggets.com/2018/12/four-approaches-ai-machine-learning.html
+
+############################## Example
+https://towardsdatascience.com/aifortrading-2edd6fac689d
+https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6
+https://oaref.blogspot.com/2019/02/make-python-surf-web-for-you-and-send.html?m=1
+https://towardsdatascience.com/predicting-stock-market-crashes-with-statistical-machine-learning-techniques-and-neural-networks-bb66bc3e3ccd
