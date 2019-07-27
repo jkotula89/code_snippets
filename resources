@@ -1,3 +1,17 @@
+############################## Web technology
+https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths
+
+############################## R programming
+https://csgillespie.github.io/efficientR/index.html
+
+############################## Machine Learning libraries
+https://github.com/mateuszbuda/ml-stat-util/blob/master/README.md 
+https://github.com/h2oai/h2o-3 
+https://github.com/blei-lab/edward 
+https://github.com/wiseodd/generative-models 
+https://docs.fast.ai/tutorials.html 
+
+############################## Cheat sheets & check lists
 https://github.com/FavioVazquez/ds-cheatsheets
 https://www.datasciencecentral.com/profiles/blogs/reading-list-for-data-scientists
 
@@ -44,3 +58,5 @@ https://towardsdatascience.com/aifortrading-2edd6fac689d
 https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6
 https://oaref.blogspot.com/2019/02/make-python-surf-web-for-you-and-send.html?m=1
 https://towardsdatascience.com/predicting-stock-market-crashes-with-statistical-machine-learning-techniques-and-neural-networks-bb66bc3e3ccd
+https://www.kdnuggets.com/2019/05/recommender-systems-azure-machine-learning.html? 
+https://towardsdatascience.com/modeling-customer-churn-for-an-e-commerce-business-with-python-874315e688bf
