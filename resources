@@ -68,7 +68,14 @@ https://towardsdatascience.com/modeling-customer-churn-for-an-e-commerce-busines
 
 ############################## Bayesion optimization
 https://github.com/pytorch/botorch
+hyperopt
+GPyOpt
 
+############################## Data imputation
+https://medium.com/ibm-data-science-experience/missing-data-conundrum-exploration-and-imputation-techniques-9f40abe0fd87
+https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779
+https://www.statsmodels.org/stable/generated/statsmodels.imputation.mice.MICE.html#statsmodels.imputation.mice.MICE
+https://pypi.org/project/fancyimpute/
 
 ############################## Graph Theory
 https://github.com/mriduls/pydata-networkx
