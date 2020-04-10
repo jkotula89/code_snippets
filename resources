@@ -35,7 +35,8 @@ https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python
 https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
 https://burakhimmetoglu.com/2017/08/22/time-series-classification-with-tensorflow/
 https://towardsdatascience.com/7-things-to-quickly-improve-your-data-analysis-in-python-3d434243da7
-https://towardsdatascience.com/how-to-plot-time-series-86b5358197d6 
+https://towardsdatascience.com/how-to-plot-time-series-86b5358197d6
+https://towardsdatascience.com/forecasting-in-python-with-facebook-prophet-29810eb57e66
 
 ############################## Classifier
 https://towardsdatascience.com/logistic-regression-as-a-nonlinear-classifier-bdc6746db734
@@ -68,6 +69,12 @@ https://oaref.blogspot.com/2019/02/make-python-surf-web-for-you-and-send.html?m=
 https://towardsdatascience.com/predicting-stock-market-crashes-with-statistical-machine-learning-techniques-and-neural-networks-bb66bc3e3ccd
 https://www.kdnuggets.com/2019/05/recommender-systems-azure-machine-learning.html? 
 https://towardsdatascience.com/modeling-customer-churn-for-an-e-commerce-business-with-python-874315e688bf
+https://towardsdatascience.com/create-an-infographic-using-matplotlib-3fbb546c1628
+https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94
+https://towardsdatascience.com/unleash-the-power-of-visual-studio-code-vscode-on-google-cloud-platform-virtual-machine-f75f78f49aee
+https://towardsdatascience.com/workflow-tools-for-model-pipelines-45030a93e9e0 
+https://towardsdatascience.com/web-scraping-of-10-online-shops-in-30-minutes-with-python-and-scrapy-a7f66e42446d
+https://towardsdatascience.com/markov-chain-analysis-and-simulation-using-python-4507cee0b06e
 
 ############################## Bayesion optimization
 https://github.com/pytorch/botorch
@@ -82,3 +89,4 @@ https://pypi.org/project/fancyimpute/
 
 ############################## Graph Theory
 https://github.com/mriduls/pydata-networkx
+
