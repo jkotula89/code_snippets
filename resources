@@ -23,6 +23,7 @@ https://towardsdatascience.com/how-i-learned-to-love-parallelized-applies-with-p
 https://github.com/scikit-learn-contrib/imbalanced-learn
 https://imgaug.readthedocs.io/en/latest
 https://docs.featuretools.com/en/stable/api_reference.html
+https://towardsdatascience.com/how-to-use-multiindex-in-pandas-to-level-up-your-analysis-aeac7f451fce
 
 ############################## Stacking
 https://github.com/Menelau/
@@ -37,6 +38,8 @@ https://burakhimmetoglu.com/2017/08/22/time-series-classification-with-tensorflo
 https://towardsdatascience.com/7-things-to-quickly-improve-your-data-analysis-in-python-3d434243da7
 https://towardsdatascience.com/how-to-plot-time-series-86b5358197d6
 https://towardsdatascience.com/forecasting-in-python-with-facebook-prophet-29810eb57e66
+https://towardsdatascience.com/python-for-finance-an-implementation-of-the-modern-portfolio-theory-39cdbaeefbd4
+https://towardsdatascience.com/how-time-series-analysis-needs-to-evolve-5dcb6190902d
 
 ############################## Classifier
 https://towardsdatascience.com/logistic-regression-as-a-nonlinear-classifier-bdc6746db734
@@ -50,6 +53,10 @@ https://github.com/lazyprogrammer/machine_learning_examples
 https://www.kdnuggets.com/2018/09/free-resources-natural-language-processing.html
 https://towardsdatascience.com/coding-foreign-language-lit-analyzing-dantes-inferno-with-python-nltk-419124c9eb44
 https://www.datasciencecentral.com/profiles/blogs/nlp-picks-bestsellers-a-lesson-in-using-nlp-for-hidden-feature-ex
+https://amitness.com/2020/05/data-augmentation-for-nlp/
+https://towardsdatascience.com/deep-learning-based-ocr-for-text-in-the-wild-efe4e67b78e4
+https://www.snorkel.org/use-cases/01-spam-tutorial
+https://arxiv.org/abs/1810.04805
 
 ############################## DNN
 http://cs231n.github.io/convolutional-networks/ 
